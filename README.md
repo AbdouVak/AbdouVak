@@ -41,18 +41,4 @@ Here are some ideas to get you started:
   <a target="_blank"href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:abdou.vakouiev@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-<div align="center">
 
-<!--
-https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
--->
-<a href="https://github.com/AbdouVak/github-stats#gh-dark-mode-only">
-<img src="https://github.com/AbdouVak/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://github.com/AbdouVak/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/AbdouVak/github-stats#gh-light-mode-only">
-<img src="https://github.com/AbdouVak/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only#gh-light-mode-only" />
-<img src="https://github.com/AbdouVak/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
-</a>
-
-</div>
